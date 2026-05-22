@@ -23,11 +23,22 @@ are covered by the same use restrictions below.
 | `Assets/Website/world-panel-2.webp` | <img src="Assets/Website/world-panel-2.webp" alt="KishuGuardian quest board artwork" width="220"> |
 | `Assets/Website/world-panel-3.webp` | <img src="Assets/Website/world-panel-3.webp" alt="KishuGuardian shield aura artwork" width="220"> |
 
+## Platform Exports
+
+These files are resized/cropped exports for specific platform profile fields.
+They are also copyrighted KishuGuardian assets covered by the same restrictions.
+
+| Asset | Purpose | Preview |
+| --- | --- | --- |
+| `Assets/KishuGuardian Profile Pic1 - Rarible Avatar 400x400.png` | Rarible avatar, 400x400 PNG | <img src="Assets/KishuGuardian%20Profile%20Pic1%20-%20Rarible%20Avatar%20400x400.png" alt="KishuGuardian Rarible avatar" width="140"> |
+| `Assets/KishuGuardian Big Banner2 - Rarible Cover 1440x260.png` | Rarible cover, exact crop, 1440x260 PNG | <img src="Assets/KishuGuardian%20Big%20Banner2%20-%20Rarible%20Cover%201440x260.png" alt="KishuGuardian Rarible cover exact crop" width="320"> |
+| `Assets/KishuGuardian Big Banner2 - Rarible Cover 1440x260 safe.png` | Rarible cover, safer head crop, 1440x260 PNG | <img src="Assets/KishuGuardian%20Big%20Banner2%20-%20Rarible%20Cover%201440x260%20safe.png" alt="KishuGuardian Rarible cover safe crop" width="320"> |
+
 ## Copyright And Use Restrictions
 
 All images in this repository, including the profile picture, banner, compressed
-versions, and generated website artwork, are copyrighted works owned by
-KishuGuardian, the creator and rights holder of the images.
+versions, platform exports, and generated website artwork, are copyrighted works
+owned by KishuGuardian, the creator and rights holder of the images.
 
 These images are published here for public viewing and identity reference only.
 No license or permission is granted to any other person, project, company, bot,
