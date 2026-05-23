@@ -56,6 +56,7 @@ They are also copyrighted KishuGuardian assets covered by the same restrictions.
 | `Assets/KishuGuardian Big Banner2 - Rarible Cover 1440x260.png` | Rarible cover, exact crop, 1440x260 PNG | <img src="Assets/KishuGuardian%20Big%20Banner2%20-%20Rarible%20Cover%201440x260.png" alt="KishuGuardian Rarible cover exact crop" width="320"> |
 | `Assets/KishuGuardian Big Banner2 - Rarible Cover 1440x260 safe.png` | Rarible cover, safer head crop, 1440x260 PNG | <img src="Assets/KishuGuardian%20Big%20Banner2%20-%20Rarible%20Cover%201440x260%20safe.png" alt="KishuGuardian Rarible cover safe crop" width="320"> |
 | `Assets/KishuGuardian Big Banner2 - Telegram Bot Banner 640x360.png` | Telegram bot banner, exact 640x360 PNG using the original banner with generated top/bottom extension | <img src="Assets/KishuGuardian%20Big%20Banner2%20-%20Telegram%20Bot%20Banner%20640x360.png" alt="KishuGuardian Telegram bot banner" width="320"> |
+| `Assets/KishuGuardian Banner2 - Telegram Bot Banner 640x360.png` | Telegram bot alternate banner, exact 640x360 PNG using Banner2 with same-image stretched top/bottom extension | <img src="Assets/KishuGuardian%20Banner2%20-%20Telegram%20Bot%20Banner%20640x360.png" alt="KishuGuardian Telegram bot alternate banner" width="320"> |
 
 ## Copyright And Use Restrictions
 
