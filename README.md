@@ -9,6 +9,28 @@ Public asset repository for KishuGuardian profile, banner, and website imagery.
 | `KishuGuardian Profile Pic1.png` | <img src="KishuGuardian%20Profile%20Pic1.png" alt="KishuGuardian profile picture" width="160"> |
 | `KishuGuardian Big Banner2.png` | <img src="KishuGuardian%20Big%20Banner2.png" alt="KishuGuardian banner" width="320"> |
 
+## Telegram Bot Description
+
+Short description:
+
+```text
+KishuGuardian watches the gate for Kishu spaces, links, updates, and future doorman verification.
+```
+
+Full description:
+
+```text
+Guardian of Kishu.
+
+KishuGuardian is the public shield for Kishu-focused community spaces, links, and assets. Follow for verified KishuGuardian updates now; future group access tools will help welcome real humans and keep spam, clones, and impostors outside the gate.
+
+https://KishuGuardian.com
+https://t.me/KishuGuardian
+https://github.com/KishuGuardian
+
+#kishuguardian #kishuguard
+```
+
 ## Website Artwork
 
 These generated website images are also KishuGuardian-owned identity assets and
@@ -33,6 +55,7 @@ They are also copyrighted KishuGuardian assets covered by the same restrictions.
 | `Assets/KishuGuardian Profile Pic1 - Rarible Avatar 400x400.png` | Rarible avatar, 400x400 PNG | <img src="Assets/KishuGuardian%20Profile%20Pic1%20-%20Rarible%20Avatar%20400x400.png" alt="KishuGuardian Rarible avatar" width="140"> |
 | `Assets/KishuGuardian Big Banner2 - Rarible Cover 1440x260.png` | Rarible cover, exact crop, 1440x260 PNG | <img src="Assets/KishuGuardian%20Big%20Banner2%20-%20Rarible%20Cover%201440x260.png" alt="KishuGuardian Rarible cover exact crop" width="320"> |
 | `Assets/KishuGuardian Big Banner2 - Rarible Cover 1440x260 safe.png` | Rarible cover, safer head crop, 1440x260 PNG | <img src="Assets/KishuGuardian%20Big%20Banner2%20-%20Rarible%20Cover%201440x260%20safe.png" alt="KishuGuardian Rarible cover safe crop" width="320"> |
+| `Assets/KishuGuardian Big Banner2 - Telegram Bot Banner 640x360.png` | Telegram bot banner, exact 640x360 PNG using the original banner with generated top/bottom extension | <img src="Assets/KishuGuardian%20Big%20Banner2%20-%20Telegram%20Bot%20Banner%20640x360.png" alt="KishuGuardian Telegram bot banner" width="320"> |
 
 ## Copyright And Use Restrictions
 
@@ -48,5 +71,10 @@ from these images.
 
 Only KishuGuardian has the right to use these images unless KishuGuardian gives
 explicit written permission in advance.
+
+Anyone who uses, copies, reposts, mints, tokenizes, sells, trains on, or
+otherwise exploits these images without written permission may be held
+financially responsible for resulting damages, profits, enforcement costs, legal
+fees, platform fees, and any other remedies available under applicable law.
 
 All rights reserved.
