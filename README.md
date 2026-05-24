@@ -62,11 +62,22 @@ They are also copyrighted KishuGuardian assets covered by the same restrictions.
 | `Assets/KishuGuardian Channel Profile Picture 1024x1024.png` | Telegram channel profile picture, 1024x1024 PNG with public guardian-hall background, not for bots | <img src="Assets/KishuGuardian%20Channel%20Profile%20Picture%201024x1024.png" alt="KishuGuardian channel profile picture" width="160"> |
 | `Assets/KishuGuardian Private Group Profile Picture 1024x1024.png` | Telegram private group profile picture, 1024x1024 PNG with protected-gate background, not for bots | <img src="Assets/KishuGuardian%20Private%20Group%20Profile%20Picture%201024x1024.png" alt="KishuGuardian private group profile picture" width="160"> |
 
+## Gate Challenge Assets
+
+These files are used by `@KishuGuardianBot` during the Telegram entry-gate
+human check. They are KishuGuardian-owned identity and verification assets.
+
+| Asset | Purpose | Preview |
+| --- | --- | --- |
+| `Assets/GateChallenges/KishuGuardian Gate Challenge 01 shield.png` through `Assets/GateChallenges/KishuGuardian Gate Challenge 12 swords.png` | Warped visual challenge rounds for the three-step Telegram gate check | <img src="Assets/GateChallenges/KishuGuardian%20Gate%20Challenge%2001%20shield.png" alt="KishuGuardian gate visual challenge example" width="260"> |
+| `Assets/GateChallenges/KishuGuardian Gate Human Confirmed.png` | Pass image shown after a user solves all three gate rounds | <img src="Assets/GateChallenges/KishuGuardian%20Gate%20Human%20Confirmed.png" alt="KishuGuardian human confirmed pass image" width="260"> |
+
 ## Copyright And Use Restrictions
 
 All images in this repository, including the profile picture, banner, compressed
-versions, platform exports, and generated website artwork, are copyrighted works
-owned by KishuGuardian, the creator and rights holder of the images.
+versions, platform exports, gate challenge assets, and generated website
+artwork, are copyrighted works owned by KishuGuardian, the creator and rights
+holder of the images.
 
 These images are published here for public viewing and identity reference only.
 No license or permission is granted to any other person, project, company, bot,
